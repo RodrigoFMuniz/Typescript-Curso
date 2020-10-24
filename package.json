@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/RodrigoFMuniz/Typescript-Curso/issues"
   },
-  "homepage": "https://github.com/RodrigoFMuniz/Typescript-Curso#readme"
+  "homepage": "https://github.com/RodrigoFMuniz/Typescript-Curso#readme",
+  "devDependencies": {
+    "typescript": "^4.0.3"
+  }
 }
