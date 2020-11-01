@@ -1,2 +1,2 @@
-# Typescript-Curso
+## Typescript-Curso
 Curso de typescript e Javascript
